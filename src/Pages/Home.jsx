@@ -1,4 +1,3 @@
-import React from 'react'
 import Navigation from '../Components/Navigation'
 import Banner from '../Components/Home/Banner'
 import Digest from '../Components/Home/Digest'

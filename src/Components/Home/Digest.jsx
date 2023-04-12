@@ -1,4 +1,5 @@
 import thumb from '/Users/bigmac/Desktop/Programming/Personally/personally/src/assets/thumbail1.svg'
+
 const Digest = () => {
   return (
     <div className='bg-[#F2F4F7] w-full px-[16px] py-[37px] md:px-[37px] md:py-[67px] lg:px-[250px]' >
