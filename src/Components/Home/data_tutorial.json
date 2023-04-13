@@ -1,0 +1,26 @@
+
+[
+    {
+        "id":"1",
+        "Date": "AUGUST 13, 2021",
+        "Title": "10 Hilarious Cartoons That Depict Real-Life Problems of Programmers",
+        "Content": "Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.",
+        "Image": "/Users/bigmac/Desktop/Programming/Personally/personally/src/Components/Home/Assets/thumbail1.svg"
+    },
+
+    {
+        "id":"2",
+        "Date": "AUGUST 30, 2021",
+        "Title": "10 Hilarious Cartoons That Depict Real-Life Problems of Programmers",
+        "Content": "Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.",
+        "Image": "./Assets/thumbnail2.svg"
+
+    },
+    {
+        "id":"3",
+        "Date": "AUGUST 20, 2021",
+        "Title": "10 Hilarious Cartoons That Depict Real-Life Problems of Programmers",
+        "Content": "Redefined the user acquisition and redesigned the onboarding experience, all within 3 working weeks.",
+        "Image": "./Assets/thumbnail3.svg"
+    }
+]

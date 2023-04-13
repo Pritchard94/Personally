@@ -2,11 +2,11 @@ import data from './data.json'
 import thumb from './Assets/thumbnail3.svg'
 
 
-const Digest = () => {
+const Design = () => {
   return (
     <div className='bg-[#F2F4F7] w-full px-[16px] py-[37px] md:px-[37px] md:py-[67px] lg:px-[250px]' >
         <div className='flex justify-between items-center'>
-            <p className='text-[#1D2939] text-[16px] font-bold lg:text-[27px]'>Daily Digest</p>
+            <p className='text-[#1D2939] text-[16px] font-bold lg:text-[27px]'>Design Tools</p>
             <button className='text-[#1D2939] text-[14px] bg-white px-[12px] py-[8px] rounded-lg font-semibold'>View all</button>
         </div>
         {data?.map((content)=>(
@@ -28,4 +28,4 @@ const Digest = () => {
   )
 }
 
-export default Digest
+export default Design
