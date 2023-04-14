@@ -1,4 +1,4 @@
-import data from './data.json'
+import data from './data'
 import thumb from './Assets/thumbnail3.svg'
 
 
@@ -17,7 +17,7 @@ const Tutorial = () => {
                     <h1 className='text-[#1D2939] md:text-[22px] lg:text-[27px] xl:w-[500px] text-[17px] md:w-[390px]  font-semibold '>{content.Title}</h1>
                     <p className='hidden md:block md:text-[16px] md:mt-[10px] md:w-[390px] xl:w-[500px] '>{content.Content}</p>
                 </div>
-                <div className='w-full h-[180px] bg-cover md:bg-none md:pr-[26px] flex items-center'style={{backgroundImage:`url(${content.Image})`}}>
+                <div className='w-full h-[180px] bg-cover md:bg-none md:pr-[26px] flex items-center'>
                     <img className='hidden md:block' src= {content.Image} alt=''/>
                 </div>
             </div>
