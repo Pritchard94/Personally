@@ -29,7 +29,7 @@ const Navigation = () => {
                 </div>
         </div>
                 <div>
-                    <div className={open ? 'fixed top-[70px] bg-[#FFFFFF] md:hidden px-[16px] pb-[15px] w-full ease-out duration-500  shadow-md shadow-[0px_4px_70px_rgba(30, 40, 52, 0.08)]' : 'fixed -top-[100%]'}>
+                    <div className={open ? 'fixed top-[70px] -z-10 bg-[#FFFFFF] md:hidden px-[16px] pb-[15px] w-full ease-out duration-500  shadow-md shadow-[0px_4px_70px_rgba(30, 40, 52, 0.08)]' : 'fixed -top-[100%]'}>
                         <ul className='text-center'>
                             <li className='bg-gradient-to-r from-[#C41740] to-[#EA9C28] text-transparent bg-clip-text text-[18px] mt-[20px]'><Link to='/digest'>Daily Digest</Link></li>
                             <li className='bg-gradient-to-r from-[#C41740] to-[#EA9C28] text-transparent bg-clip-text text-[18px] mt-[20px]'><Link to='/design'>Design Tools</Link></li>
