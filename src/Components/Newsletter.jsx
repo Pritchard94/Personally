@@ -12,7 +12,7 @@ const Newsletter = () => {
             <button className='bg-[#1D2939] px-[14px] py-[15px] mb-[40px] md:mb-[0px] text-white rounded-xl w-full md:w-fit md:px-[15px] md-[34px] md:rounded-l-sm md:text-[14px] md:h-[50px]'>Subscribe</button>  
         </div>
         
-        <p className='text-center py-[20px] border-t-[1px] w-full border-[#adb3bb78] text-[12px]'>Copyright 2021 - Elikem Daniels</p>
+        <p className='text-center py-[20px] border-t-[1px] w-full border-[#adb3bb78] text-[12px]'>Copyright 2021 - Pritchard Feyisanumi</p>
 
       
     </div>
